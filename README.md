@@ -5,4 +5,15 @@ En esta actividad creamos un **repositorio remoto en GitHub** al que nos conecta
 
 ## Actividad 1.4
 
-En esta práctica aprendimos algunas particularidades de GitHub, como el uso del lenguaje Markdown para el archivo **README** y el servicio **GitHub Pages**, que **nos permitió publicar una web estática vinculada automáticamente con nuestro repositorio** y que **reflejaba instantáneamente los cambios que íbamos realizando**.
+En esta práctica aprendimos algunas particularidades de GitHub, como el uso del lenguaje Markdown para el archivo **README** y el servicio **GitHub Pages**, que nos permitió publicar una web estática vinculada automáticamente con nuestro repositorio y que reflejaba instantáneamente los cambios que íbamos realizando.
+
+### Recursos 
+
+[Mi repositorio](https://www.example.com)
+
+![imagen](imagen.png)
+
+### Código index
+
+
+
