@@ -1,7 +1,7 @@
 # DawAct1_4
 ## Actividad 1.3
 
-En esta actividad creamos un **repositorio remoto en GitHub** al que nos conectamos con dos usuarios diferentes. Para simular que teníamos dos usuarios, utilizamos nuestra máquina local y una máquina virtual (MV) con Ubuntu y Git instalado**. En la MV usamos Git desde la consola y realizamos cambios en el repositorio. En nuestra máquina local empleamos la interfaz gráfica de Git de nuestro editor de código favorito (VSCode). Creamos ramas, las sincronizamos con el repositorio remoto, resolvimos conflictos y observamos cómo hacerlo tanto desde la consola como desde la interfaz de VSCode.
+En esta actividad creamos un **repositorio remoto en GitHub** al que nos conectamos con dos usuarios diferentes. Para simular que teníamos dos usuarios, utilizamos nuestra máquina local y una máquina virtual (MV) con *Ubuntu* y *Git* instalado. En la MV usamos Git desde la consola y realizamos cambios en el repositorio. En nuestra máquina local empleamos la interfaz gráfica de Git de nuestro editor de código favorito (*VSCode*). Creamos ramas, las sincronizamos con el repositorio remoto, resolvimos conflictos y observamos cómo hacerlo tanto desde la consola como desde la interfaz de VSCode.
 
 ## Actividad 1.4
 
@@ -15,5 +15,18 @@ En esta práctica aprendimos algunas particularidades de GitHub, como el uso del
 
 ### Código index
 
-
+```<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Index</title>
+</head>
+<body>
+    <h1>Módulos de desarrollo de aplicaciones WEB</h1>
+    <ul>
+        <li>Despliegue de aplicaciones WEB</li>
+        <li>Entorno de desarrollo</li>
+        <li>Ingles</li>
+    </ul>
+</body>
+</html>´´´
 
